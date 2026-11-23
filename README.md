@@ -81,7 +81,7 @@ $ ./cell run ./main.py --lang python
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RzcharDx/RzcharDx/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d contrib" />
 </div>
 
 ### 🤝 CONNECT // UPLINK
