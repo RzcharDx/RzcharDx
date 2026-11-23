@@ -68,20 +68,12 @@ $ ./cell run ./main.py --lang python
 ### 📊 TELEMETRY // GITHUB STATS
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/RzcharDx?template=classic&config.timezone=Asia%2FShanghai" alt="metrics" />
-</div>
-
-<div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=RzcharDx&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=e6edf3&icon_color=00F0FF&bg_color=0,0d1117,0f2027,203a43,2c5364" alt="GitHub stats" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzcharDx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=e6edf3&bg_color=0,0d1117,16213e,0f3460" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=RzcharDx&theme=dark" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RzcharDx&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
 </div>
 
 <div align="center">
