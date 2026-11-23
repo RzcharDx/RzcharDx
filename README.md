@@ -81,7 +81,7 @@ $ ./cell run ./main.py --lang python
 <p align="left">
   <a href="https://twitter.com/rz_chardx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rz_chardx" height="30" width="40" /></a>
   <a href="https://instagram.com/rzchardxx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzchardxx" height="30" width="40" /></a>
-  <a href="mailto:Rz_charDx@proton.me"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Rz_charDx@proton.me" height="30" width="40" /></a>
+  <a href="mailto:Rz_charDx@proton.me"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rz_charDx@proton.me" height="30" /></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
